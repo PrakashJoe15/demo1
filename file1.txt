@@ -1,2 +1,3 @@
-first line 
+first line is replaced in feature-2 branch
 second line
+third line is added in feature-2 branch
